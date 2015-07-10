@@ -15,6 +15,13 @@ Create an Android App that displays some Lorem Ipsum. Above the Lorem Ipsum, inc
 #### Morning Exercises
 * Complete the Do Now.  
 * Create a PreferenceActivity which sets font size.  
+* 
+#### Pod Meeting
+Please set aside 30 min during lunch to meet with your pod.  
+If some questions are not applicable to the past week, don't worry--skip over them -- but please also talk about:
+* Did you meet your goals and expectations for the end of Unit 2 and Demo Day?
+* What are you goals and expectations for this upcoming Unit?  
+* What will you do as a team to make sure you meet your goals for this Unit?  
 
 #### Afternoon Lesson
 * Preference Fragments  
