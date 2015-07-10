@@ -7,7 +7,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 |---|---|---|---|
 0 | July 7 | 0 | NYTM
 1 | July 9 | 0 | Eddie Zenesky - Technical Blog Posts
-2 | July 11 | 0 | Preferences
+2 | July 11 | 0 | [Preferences] (lessons/02_Preferences.md)
 3 | July 12 | 1 | SQLite
 4 | July 14 | 1 | Guest Lecture on Time Management
 5 | July 16 | 1 | 
