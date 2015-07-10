@@ -38,4 +38,4 @@ Expand the PreferenceActivity to have the following features:
 * Change all of this to use Custom Preferences  
 
 #### Exit ticket
-Please fill out the exit ticket here.
+Please fill out the exit ticket [here](https://docs.google.com/forms/d/1v97y5EkZtYXv1ObFharuRe5w8dsJyy4u55cZCXOoFR4/viewform?usp=send_form).
