@@ -1,4 +1,5 @@
 #### SQLite  
+Led by Kevin Galligan
 #### Morning Lecture  
 #### Morning Exercises  
 #### Lunch  
