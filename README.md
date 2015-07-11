@@ -14,7 +14,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 6 | July 18 | 1 | Fragments
 7 | July 19 | 2 | Other Common Widgets
 8 | July 21 | 2 | ContentProviders
-9 | July 23 | 2 |
+9 | July 23 | 2 | Exercises
 10 | July 25 | 2 | Broadcasts
 11 | July 26 | 3 | Sensors
 12 | July 28 | 3 | 
