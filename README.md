@@ -48,7 +48,8 @@ Lesson Plans for Access Code 2.1, Unit 3
 40 | Sep 15 | 10 | **Final Project: Final Release and Demo Day!**
 
 ### Homework
-| Due Date | Homework|
-| Fri July 17, 10pm | HW0 (SQL) |
-| TBD | TBD |
-| TBD | TBD |
+| Due Date | Homework|  
+|---|---|
+| Fri July 17, 10pm | HW0 (SQL) |  
+| TBD | TBD |  
+| TBD | TBD |  
