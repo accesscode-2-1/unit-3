@@ -39,8 +39,8 @@ Lesson Plans for Access Code 2.1, Unit 3
 31 | Aug 30 | 8 | 
 32 | Sep 1 | 8 | Final Project: First Release and Demo
 33 | Sep 3 | 8 | 
-34 | Sep 5 | 8 | 
-35 | Sep 6 | 9 | 
+34 | Sep 5 | 8 | No Class - Holiday Break 
+35 | Sep 6 | 9 | No Class - Holiday Break 
 36 | Sep 8 | 9 | Final Project: Second Release and Demo
 37 | Sep 10 | 9 | 
 38 | Sep 12 | 9 | 
