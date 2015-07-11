@@ -49,5 +49,6 @@ Lesson Plans for Access Code 2.1, Unit 3
 
 ### Homework
 | Due Date | Homework|
-|--- |---|
+| Fri July 17, 10pm | HW0 (SQL) |
+| TBD | TBD |
 | TBD | TBD |
