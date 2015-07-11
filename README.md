@@ -35,7 +35,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 27 | Aug 23 | 7 | 
 28 | Aug 25 | 7 |
 29 | Aug 27 | 7 | Droidcon
-30 | Aug 29 | 7 | End of Program Final Assessment
+30 | Aug 29 | 7 | **Program Final Assessment**
 31 | Aug 30 | 8 | 
 32 | Sep 1 | 8 | Final Project: First Release and Demo
 33 | Sep 3 | 8 | 
@@ -45,7 +45,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 37 | Sep 10 | 9 | 
 38 | Sep 12 | 9 | 
 39 | Sep 13 | 10 | 
-40 | Sep 15 | 10 | Final Project: Final Release and Demo Day!
+40 | Sep 15 | 10 | **Final Project: Final Release and Demo Day!**
 
 ### Homework
 | Due Date | Homework|
