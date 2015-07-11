@@ -17,10 +17,10 @@ Lesson Plans for Access Code 2.1, Unit 3
 9 | July 23 | 2 | Exercises
 10 | July 25 | 2 | Broadcasts
 11 | July 26 | 3 | Sensors
-12 | July 28 | 3 | 
-13 | July 30 | 3 | 
-14 | Aug 1 | 3 | 
-15 | Aug 2 | 4 |
+12 | July 28 | 3 | Exercises
+13 | July 30 | 3 | Robin Hood Hackathon Introduction + Team Formation
+14 | Aug 1 | 3 | Robin Hood Hackathon
+15 | Aug 2 | 4 | Robin Hood Hackathon
 16 | Aug 4 | 4 |
 17 | Aug 6 | 4 |
 18 | Aug 8 | 4 |
@@ -48,5 +48,6 @@ Lesson Plans for Access Code 2.1, Unit 3
 40 | Sep 15 | 10 | Final Project: Final Release and Demo Day!
 
 ### Homework
-# | Due Date | Homework|
-|---|---|
+| Due Date | Homework|
+|--- |---|
+| TBD | TBD |
