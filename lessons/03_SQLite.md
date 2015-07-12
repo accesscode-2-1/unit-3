@@ -144,11 +144,74 @@ SQLite is a small SQL database that provides the basic features of the bigger se
 
 Android provides custom objects that facilitate interacting with and maintaining your database.
 
+### SQLite
+
+SQLite is an open source database built to run in smaller constrained environments (as opposed to mysql, oracle, etc). It support much of the SQL language, but lacks some more advanced features.
+
+SQLite databases exist as a single file (excluding the log file), and communication happens through C++ bindings.
+
+[https://en.wikipedia.org/wiki/SQLite](https://en.wikipedia.org/wiki/SQLite)
+
+### Android SQLite parts
+
+#### SQLiteDatabase
+
+Java object wrapping the low level C++ bindings.  Includes general SQL execution methods, as well as purpose-specific methods designed to make db interaction easier (presumably ;).  When working directly with SQLite, you'll use this a lot.
+
+[http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html](http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html)
+
+#### Cursor
+
+Queries from the database return a Cursor object.  Queries don't return all results in memory for performance reasons.  Cursors keep track of which row you're currently looking at.  You can grab different columns from the query though 'get' methods.  You navigate to different rows by the 'move' methods.
+
+```java
+Cursor cursor = db.query(...);
+        while(cursor.moveToNext())
+        {
+            ///Cursor stuff
+        }
+```
+
+#### SQLiteOpenHelper
+
+Helper class that manages a particular database.  You extend SQLiteOpenHelper, provide a db file name and version, and override onCreate and onUpgrade.  When first opened, onCreate is called, and you can create your tables.  When you upgrade your app, increment the version number, and onUpgrade will be called the next time the db is opened.
+
+```java
+@Override
+    public void onCreate(SQLiteDatabase db)
+    {
+        db.execSQL(SQL_CREATE_ENTRIES);
+    }
+
+    @Override
+    public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion)
+    {
+        db.execSQL(SQL_DELETE_ENTRIES);
+        onCreate(db);
+    }
+```
+
+You *can* have multiple databases in one app, although generally that's not a great idea.  Depends what you're doing.
+
+### Usage Tips
+
+All database access is local disk I/O, and *should* be done in a background thread.  This is an ongoing debate, and newer devices are presumably better with this, but its good practice.
+
 ### Selecting by ID
 
-### Querying by comparison
+For many apps, database tables tend to map fairly closely to "business entities" in your app.  Much of the interaction tends to be querying and updating by id, and not as much joining or reporting queries.
 
-### Cursors
+### Using sqlite3 and run-as
+
+Become familiar with sqlite3 command line tool. You can get access to your app's data files through adb shell, and run-as.  sqlite3 will let you query the db directly.
+
+### ContentProvider
+
+ContentProvider is a first class structure on Android.  The design allows you to give other apps access to your data.  They can query your database across processes.  Queries come in the form or URI's you define, and return data with Cursor.  If you query contacts or the calendar on the device, you're interacting with a ContentProvider.
+
+Its often recommended that you use ContentProvider for all data access, even inside your app.  I won't get too into it, but I'm not a fan.  However, Google pushes it, so make your own call.
+
+ContentProvider is scheduled for a future class, so we'll leave that for later.
 
 ## Exercises
 
@@ -158,7 +221,7 @@ Take the Step 2 branch, and add an address field to the database.  Insert that d
 ## Development Strategies
 ### Raw SQL
 
-Our examples so far are raw SQL.  Lots of projects do this, and Google generally recommends it, but there's a lot of boilerplate code involved.  Not a fan.
+Our examples so far are raw SQL.  Lots of projects do this, and Google generally recommends it, but there's a lot of boilerplate code involved.  We generally don't do much raw sql in apps, but its pretty common, and although verbose, generally simple to implement.  You should be generally comfortable with SQL as even if you're using a higher level framework, you should be aware of what's happening under the hood.
 
 ### ORM Framework
 
@@ -169,7 +232,9 @@ Object Relational Manager.  Maps tables to classes, basically.  These are used p
 3. ActiveAndroid
 4. SquiDB
 5. Other DB's - Realm, others?
- 
+
+In general I recommend you develop your app with an ORM framework, and replace features with direct SQL in places if needed.  Usually the amounts of data involved are very small, so performance isn't an issue.  Sometimes that's not the case (Topps example).
+
 #### Quick ORMLite Example
 
 Move to branch "Step3...".  Changes:
