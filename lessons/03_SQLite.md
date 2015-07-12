@@ -158,6 +158,17 @@ This is relatively complex for today, but related tables can be joined together 
 
 Join Customers, Orders, OrderDetails, and Products for a report.
 
+### Example create statements from web tool
+```SQL
+CREATE TABLE Customers (CustomerID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,CustomerName NVARCHAR(255),ContactName NVARCHAR(255),Address NVARCHAR(255),City NVARCHAR(255),PostalCode NVARCHAR(255),Country NVARCHAR(255))
+
+CREATE TABLE OrderDetails (OrderDetailID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,OrderID INT,ProductID INT,Quantity INT)
+
+CREATE TABLE Orders (OrderID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,CustomerID INT,EmployeeID INT,OrderDate DATE,ShipperID INT)
+
+CREATE TABLE Products (ProductID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,ProductName NVARCHAR(255),SupplierID INT,CategoryID INT,Unit NVARCHAR(255),Price MONEY)
+```
+
 ## SQLite on Android
 
 SQLite is a small SQL database that provides the basic features of the bigger server counterparts, but in a smaller package.  Used in many environments.  Comes built into Android.
