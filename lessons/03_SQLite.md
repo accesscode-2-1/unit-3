@@ -1,4 +1,7 @@
 # SQLite
+
+BTW: If you need to get on the meetup list for Wed, email me (and Olivia) at kevin@touchlab.co and olivia@touchlab.co
+
 ## Objective
 Students will learn what databases are and get an intro on using SQLite in Android applications.
 ## Overview
