@@ -118,6 +118,14 @@ Clauses can be combined with AND and OR, and can be nested in parenthesis.  They
 
 Your data will often represent specific entities, so you'll be sticking mostly with looking for singular values by id, or displaying a full list.  However, as you build more complex apps, you'll be using write more complex select, update, and delete statements.
 
+#### Example
+
+Complex Query
+
+```SQL
+SELECT CustomerName, ContactName, Address, City, PostalCode, Country, OrderDate, Quantity, ProductName, Unit, Price FROM Customers c join Orders o on c.CustomerId = o.CustomerId join OrderDetails od on o.OrderId = od.OrderId join Products p on od.ProductId = p.ProductId order by c.CustomerId;
+```
+
 #### Run SQL
 
 Use this page to test out SQL statements.  It runs SQLite in the browser, which is the same DB that's in Android under the hood.
