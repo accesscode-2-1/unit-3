@@ -224,6 +224,8 @@ Helper class that manages a particular database.  You extend SQLiteOpenHelper, p
 
 You *can* have multiple databases in one app, although generally that's not a great idea.  Depends what you're doing.
 
+Fun link: [http://stackoverflow.com/questions/2493331/what-are-the-best-practices-for-sqlite-on-android](http://stackoverflow.com/questions/2493331/what-are-the-best-practices-for-sqlite-on-android)
+
 ### Usage Tips
 
 All database access is local disk I/O, and *should* be done in a background thread.  This is an ongoing debate, and newer devices are presumably better with this, but its good practice.
