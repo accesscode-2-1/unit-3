@@ -40,10 +40,11 @@ CREATE TABLE employees (
     id            INTEGER      PRIMARY KEY,
     first_name    VARCHAR(50) not null,
     last_name     VARCHAR(75) not null,
-    fname         VARCHAR(50) not null,
-    dateofbirth   DATE         null
+    fname         VARCHAR(50) not null
 );
 ```
+
+(Note: Kevin had a Date type, which is a bad example)
 
 #### ALTER
 
