@@ -10,7 +10,11 @@ When we say "database", we often mean a relational database, which is also often
 Each table represents an "entity" type, and the columns are attributes related to that entity.  Think Product, Customer, and Order.
 ### Relating tables
 Each table generally has a unique id associated with each row.  If one table relates to another, it can hold a reference to that other table row.
-(Slies.  Example with one table split into two)
+
+The basic way you "relate" tables is one table holds a reference to another table.  For example, an "Order" table can hold a reference to a "Customer" table.  You can try putting "CustomerName" in the "Order" table, but if you have 2 customers with the same name, or if you change the CustomerName in Customer, you could easily get into trouble.  Most DB's have an ID field which is just a sequential (or random) number.  It technically should have no meaning other than uniquely identifying the row, and shouldn't change.
+
+(Show the example queries on site)
+
 ### Data access
 Pretty much all databases have specialized data access functions or languages.  For relational DBs, this is almost always SQL.  Structured Query Language.  Its specific to databases, and defines searching and modifying data in a DB.
 We're not doing much SQL, but you should learn some on your own.  You'll run into it a lot.
