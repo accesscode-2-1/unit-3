@@ -294,5 +294,11 @@ https://github.com/jaellysbales/scientific-calculator/tree/master/ScientificCalc
 
 In my demo, the stored answer list is shown by long-pressing equals.  Clicking on a stored value inserts it as the current euquation.
 
+### Links
+https://en.wikipedia.org/wiki/ACID
+https://en.wikipedia.org/wiki/Object-relational_mapping
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=android%20sqlite%20tutorial
+http://www.vogella.com/tutorials/AndroidSQLite/article.html
+
 ## Exit Ticket  
 Please complete the exit ticket [here](https://docs.google.com/forms/d/12jvJtywjkGzFxLZJBlSXu2L4Wwhe4hzTS1fuoimpYAI/viewform?usp=send_form).
