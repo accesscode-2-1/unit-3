@@ -15,3 +15,6 @@ Work through [http://www.sql-ex.ru/](http://www.sql-ex.ru/).
 #### Horoscope Horror  
 Refactor your Horoscope App to use a database for the information associated with each sign.  
 
+### Exit Ticket  
+Please submit exit ticket [here](http://goo.gl/forms/ZTce71rCzI).  
+
