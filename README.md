@@ -10,9 +10,9 @@ Lesson Plans for Access Code 2.1, Unit 3
 2 | July 11 | 0 | [Preferences] (lessons/02_Preferences.md)
 3 | July 12 | 1 | [SQLite] (https://github.com/accesscode-2-1/unit-3/blob/master/lessons/03_SQLite.md)
 4 | July 14 | 1 | Workshop: Time Management
-5 | July 16 | 1 | Exercises
+5 | July 16 | 1 | [Exercises] (exercises/week1.md)
 6 | July 18 | 1 | Fragments
-7 | July 19 | 2 | Other Common Widgets
+7 | July 19 | 2 | [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | ContentProviders
 9 | July 23 | 2 | Exercises
 10 | July 25 | 2 | Broadcasts
