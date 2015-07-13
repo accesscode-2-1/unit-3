@@ -11,13 +11,13 @@ Lesson Plans for Access Code 2.1, Unit 3
 3 | July 12 | 1 | [SQLite] (https://github.com/accesscode-2-1/unit-3/blob/master/lessons/03_SQLite.md)
 4 | July 14 | 1 | Workshop: Time Management
 5 | July 16 | 1 | [Exercises] (exercises/week1.md)
-6 | July 18 | 1 | Fragments
+6 | July 18 | 1 | [Fragments] (lessons/06_Fragments.md)
 7 | July 19 | 2 | [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | ContentProviders
 9 | July 23 | 2 | Exercises
 10 | July 25 | 2 | Broadcasts
 11 | July 26 | 3 | Sensors
-12 | July 28 | 3 | Exercises
+12 | July 28 | 3 | How to: Hackathon + Workshop
 13 | July 30 | 3 | Robin Hood Hackathon Introduction + Team Formation
 14 | Aug 1 | 3 | Robin Hood Hackathon
 15 | Aug 2 | 4 | Robin Hood Hackathon
