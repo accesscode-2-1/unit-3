@@ -8,9 +8,9 @@ Lesson Plans for Access Code 2.1, Unit 3
 0 | July 7 | 0 | NYTM
 1 | July 9 | 0 | Eddie Zaneski - Technical Blog Posts
 2 | July 11 | 0 | [Preferences] (lessons/02_Preferences.md)
-3 | July 12 | 1 | [SQLite] (https://github.com/accesscode-2-1/unit-3/blob/master/lessons/03_SQLite.md)
-4 | July 14 | 1 | [Workshop: Time Management] (http://goo.gl/forms/Ux4rw0CkuJ)
-5 | July 16 | 1 | [Exercises] (exercises/week1.md)
+3 | July 12 | 1 | [SQLite] (lessons/03_SQLite.md)
+4 | July 14 | 1 | [SQLite Exercises] (exercises/week1.md)
+5 | July 16 | 1 | TBD
 6 | July 18 | 1 | [Fragments] (lessons/06_Fragments.md)
 7 | July 19 | 2 | [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | ContentProviders
