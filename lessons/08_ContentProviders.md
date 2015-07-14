@@ -1,5 +1,5 @@
 ### Content Providers
-#### Instructor: Yang Mou
+Instructor: Yang Mou
 
 #### Do Now  
 Create an app where users can add a key/value pair to a table displayed on the screen.  
