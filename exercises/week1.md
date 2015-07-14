@@ -16,5 +16,5 @@ Work through [http://www.sql-ex.ru/](http://www.sql-ex.ru/).
 Refactor your Horoscope App to use a database for the information associated with each sign.  
 
 ### Exit Ticket  
-Please submit exit ticket [here](http://goo.gl/forms/ZTce71rCzI).  
+Please submit exit ticket [here](https://docs.google.com/forms/d/1TTK--mbhQGvH6pVXAWk0LQsiKhJVmu7MazAJgSnO8Uo/viewform?usp=send_form).  
 
