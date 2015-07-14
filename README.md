@@ -14,9 +14,9 @@ Lesson Plans for Access Code 2.1, Unit 3
 6 | July 18 | 1 | [Fragments] (lessons/06_Fragments.md)
 7 | July 19 | 2 | Unix Tools + [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | [ContentProviders] (lessons/08_ContentProviders.md)
-9 | July 23 | 2 | Exercises
-10 | July 25 | 2 | Broadcasts
-11 | July 26 | 3 | Sensors
+9 | July 23 | 2 | [Exercises] (exercises/week2.md)
+10 | July 25 | 2 | [Broadcast Receivers] (lessons/10_BroadcastReceivers.md)
+11 | July 26 | 3 | [Sensors] (lessons/11_Sensors.md)
 12 | July 28 | 3 | How to: Hackathon + Workshop
 13 | July 30 | 3 | Robin Hood Hackathon Introduction + Team Formation
 14 | Aug 1 | 3 | Robin Hood Hackathon
