@@ -10,9 +10,9 @@ Lesson Plans for Access Code 2.1, Unit 3
 2 | July 11 | 0 | [Preferences] (lessons/02_Preferences.md)
 3 | July 12 | 1 | [SQLite] (lessons/03_SQLite.md)
 4 | July 14 | 1 | [SQLite Exercises] (exercises/week1.md)
-5 | July 16 | 1 | TBD
+5 | July 16 | 1 | Intro to Product & Product Lifestyle
 6 | July 18 | 1 | [Fragments] (lessons/06_Fragments.md)
-7 | July 19 | 2 | [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
+7 | July 19 | 2 | Unix Tools + [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | ContentProviders
 9 | July 23 | 2 | Exercises
 10 | July 25 | 2 | Broadcasts
