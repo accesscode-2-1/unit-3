@@ -21,4 +21,4 @@ Choose three open issues and identify the files that you think you would need to
 Close any of those issues from Part II and submit your changes as PRs to the [Access Code fork](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Faccesscode-2-1%2FWordPress-Android&sa=D&sntz=1&usg=AFQjCNFY9pEReXCjNBELQSe5p4m7TC4Jug) .  
 
 #### Submission
-Submit the links to your PRs to Veena via this [form] (https://docs.google.com/forms/d/1t73hVVucTggC0ZAfAl03LIpc5cDACBUtt1A7Qu-6JCA/viewform?usp=send_form).
+Submit the links to your PRs and written answer for Part 2 to Veena via this [form] (https://docs.google.com/forms/d/1t73hVVucTggC0ZAfAl03LIpc5cDACBUtt1A7Qu-6JCA/viewform?usp=send_form).

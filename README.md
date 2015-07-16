@@ -10,15 +10,15 @@ Lesson Plans for Access Code 2.1, Unit 3
 2 | July 11 | 0 | [Preferences] (lessons/02_Preferences.md)
 3 | July 12 | 1 | [SQLite] (lessons/03_SQLite.md)
 4 | July 14 | 1 | [SQLite Exercises] (exercises/week1.md)
-5 | July 16 | 1 | Intro to Product & Product Lifestyle
+5 | July 16 | 1 | [Intro to Product & Product Lifestyle] (https://docs.google.com/forms/d/13nc3wn4gWSYKt5BygCRbnzMoIWm70hWuUSiZ9ZXJPmU/viewform?usp=send_form)  
 6 | July 18 | 1 | [Fragments] (lessons/06_Fragments.md)
 7 | July 19 | 2 | Unix Tools + [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | [ContentProviders] (lessons/08_ContentProviders.md)
-9 | July 23 | 2 | Exercises
-10 | July 25 | 2 | Broadcasts
-11 | July 26 | 3 | Sensors
-12 | July 28 | 3 | How to: Hackathon + Workshop
-13 | July 30 | 3 | Robin Hood Hackathon Introduction + Team Formation
+9 | July 23 | 2 | Defining the Problem: Scope and goals + [Week 2 Exercises] (exercises/week2.md)
+10 | July 25 | 2 | [Broadcast Receivers] (lessons/10_BroadcastReceivers.md)
+11 | July 26 | 3 | [Sensors] (lessons/11_Sensors.md)
+12 | July 28 | 3 | Feature Requirements for UI + Implementation
+13 | July 30 | 3 | How To: Hackathon, Robin Hood Hackathon Introduction + Team Formation
 14 | Aug 1 | 3 | Robin Hood Hackathon
 15 | Aug 2 | 4 | Robin Hood Hackathon
 16 | Aug 4 | 4 |

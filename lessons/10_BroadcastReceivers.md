@@ -1,5 +1,5 @@
 ## Broadcast Receivers
-Instructor: Jared Poelman
+Instructor: Jared Basedgod Poelman
 
 #### Do Now  
 Create a simple app that switches between two activities with the press of a button. The activities should be visually distinctive.  
