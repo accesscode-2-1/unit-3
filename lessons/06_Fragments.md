@@ -27,4 +27,8 @@ Refactor your app from the Do Now so that the button and textview are part of a 
 ### Afternoon Exercises  
 
 Starting with an app with only the blank Activity boilerplate, create an app using a navigation drawer and fragments.    
-Create an app that uses fragments to create a detail/view layout that’s different for phones and tablets.  
+Create an app that uses fragments to create a detail/view layout that’s different for phones and tablets. 
+
+
+#### Exit Ticket  
+Please complete the exit ticket [here](http://goo.gl/forms/CQef81dURT).  
