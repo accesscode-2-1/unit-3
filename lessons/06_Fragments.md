@@ -31,4 +31,4 @@ Create an app that uses fragments to create a detail/view layout that’s differ
 
 
 #### Exit Ticket  
-Please complete the exit ticket [here](https://docs.google.com/a/c4q.nyc/forms/d/1uS1s83VVxnKKjLa5iylvGnQIu3KcCb1flk1dxE5MCuQ/edit).  
+Please complete the exit ticket [here](https://docs.google.com/a/c4q.nyc/forms/d/1uS1s83VVxnKKjLa5iylvGnQIu3KcCb1flk1dxE5MCuQ/viewform).  
