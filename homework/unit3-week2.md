@@ -19,3 +19,6 @@ Working with your Unit 2 final project, create a tablet layout using fragments. 
 #### Bonus  
 
 Open issues on your classmates’ Unit 2 final projects. Work on the issues others leave on your project. Feel free to solicit your classmates to give you issues to work on.  
+
+#### Submission
+Please submit links to your PRs [here](https://docs.google.com/forms/d/19E850HCeEnvJi7PXrpUDiMhse3bYFTZIUsUMSF0z8oI/viewform?usp=send_form).
