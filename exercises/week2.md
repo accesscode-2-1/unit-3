@@ -1,5 +1,7 @@
 ### Exercises, Week 2
 
+0. Please complete exercises from [Widgets](lessons/07_OtherCommonWidgets.md) and [ContentProviders](lessons/08_ContentProviders.md) if you haven't done so.
+
 1. Choose an issue from the Github Android App. Pair program and work on it with a partner. Whomever feels weaker at the material should drive.  
 
 2. Open issues on your classmates’ Unit 2 final projects.  
