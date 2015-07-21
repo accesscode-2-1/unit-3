@@ -67,3 +67,6 @@ long millis = today.getTimeInMillis();
 #### Resources
 http://developer.android.com/guide/topics/providers/content-providers.html
 http://developer.android.com/guide/topics/providers/calendar-provider.html
+  
+#### Exit Ticket
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1jj_DQk2J7Q0SfJPN7719AYa1DK4jPfDHdu5Ct4zDbyE/viewform).  
