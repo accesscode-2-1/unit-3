@@ -32,7 +32,7 @@ Instructor: Gabriel Herrera, Spotify
   
 [What Customers Want](http://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673/ref=sr_1_1): Very nitty gritty how on how to manage product innovation, we use a few method from this a lot in our day to day.  
   
-[Scrum Product Ownership[(http://www.amazon.com/Scrum-Product-Ownership-Balancing-Inside/dp/0988502623/ref=sr_1_1): Introduces a few prioritization frameworks and ideas on how to get a team to a happy shipping place.  
+[Scrum Product Ownership](http://www.amazon.com/Scrum-Product-Ownership-Balancing-Inside/dp/0988502623/ref=sr_1_1): Introduces a few prioritization frameworks and ideas on how to get a team to a happy shipping place.  
 
 [What to ask when starting a product](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/).
 
