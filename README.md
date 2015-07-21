@@ -12,7 +12,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 4 | July 14 | 1 | [SQLite Exercises] (exercises/week1.md)
 5 | July 16 | 1 | [Intro to Product & Product Lifestyle](lessons/05_Product.md)  
 6 | July 18 | 1 | [Fragments] (lessons/06_Fragments.md)
-7 | July 19 | 2 | Unix Tools + [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
+7 | July 19 | 2 | Technical Interviews + [Other Common Widgets] (lessons/07_OtherCommonWidgets.md)
 8 | July 21 | 2 | [ContentProviders] (lessons/08_ContentProviders.md)
 9 | July 23 | 2 | [Defining the Problem: Scope and goals](lessons/09_Product2.md) + [Week 2 Exercises] (exercises/week2.md)
 10 | July 25 | 2 | [Broadcast Receivers] (lessons/10_BroadcastReceivers.md)
