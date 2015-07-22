@@ -38,4 +38,4 @@ Instructor: Gabriel Herrera, Spotify
 
 
 #### Exit Ticket  
-Please complete the exit ticket here. 
+Please complete the exit ticket [here](https://docs.google.com/forms/d/1YcMKwhzvepzi3BnQgdWZCn-l4Gd4GLMlROf0-Q-BbS8/viewform). 
