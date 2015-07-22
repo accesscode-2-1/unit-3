@@ -28,3 +28,7 @@ Create an app to send and receive a simple Broadcast in the activity and the man
 #### Afternoon Exercises
 
 Using an app that you’ve already built, create a power save version.  
+
+
+#### Exit Ticket  
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1YOnIqu8FAXkSjymIrOS3zUAvLyB0xrsZSKiKa2krMDk/viewform).  
