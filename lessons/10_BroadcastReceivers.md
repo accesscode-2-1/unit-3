@@ -17,8 +17,8 @@ Create an app to send and receive a simple Broadcast in the activity and the man
 #### Pod Meetings  
 
 #### Afternoon Lesson  
-* Stopped State  
 * Boot up and Battery changes  
+* Security
 * Ordered Broadcasts  
 * LocalBroadcastManager  
 * Receiver Lifecycle  
