@@ -1,4 +1,7 @@
 ### Sensors
+Led by Danny Chiao  
+  
+[Slides](https://docs.google.com/presentation/d/1iVoeseIk-VfCZSFPKWFwrbSKUo6Sjos4hzlkcDLfvOE/edit?usp=sharing)
 
 #### Do Now  
 Make an app that has two buttons: one that looks like a camera button and the other an audio recording button.
