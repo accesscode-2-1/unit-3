@@ -19,7 +19,7 @@ Implement the camera button to take a picture. When the picture is taken, add it
 * Touch  
 
 #### Afternoon Exercises
-Implement the audio recording button. When the audio is recorded, also add it to the gallery with the geolocated address printed in an adjacent TextView.
+Implement the audio recording button. When the audio is recorded, also add it to the gallery with the geolocated address printed in an adjacent TextView. This audio file should support play/pause when its added to the view.
 
 Then, use the accelerometer so that tilting the device can scroll through the gallery.
 
