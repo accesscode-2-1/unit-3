@@ -21,4 +21,4 @@ Implement the audio recording button. When the audio is recorded, also add it to
 Then, use the accelerometer so that tilting the device can scroll through the gallery.
 
 #### Exit ticket
-Please submit the exit ticket here.  
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1z3EZjY9QSVwUJbkTAXV5BfehhPl79SDBP7APvg7Yinw/viewform?usp=send_form).  
