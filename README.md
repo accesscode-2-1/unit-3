@@ -52,4 +52,4 @@ Lesson Plans for Access Code 2.1, Unit 3
 |---|---|
 | Fri July 17, 10pm | [HW0 (SQL)](https://github.com/accesscode-2-1/unit-3/blob/master/homework/unit3-week1.md) |  
 | Sat July 25, 10pm | [HW1 (Fragments)] (https://github.com/accesscode-2-1/unit-3/blob/master/homework/unit3-week2.md) |  
-| TBD | TBD |  
+| Sat Aug 1 | [Hackathon Prep!](https://github.com/accesscode-2-1/unit-3/blob/master/homework/unit3-week3.md) |  
