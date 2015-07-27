@@ -1,30 +1,32 @@
 ## Broadcast Receivers
-Instructor: Jared Basedgod Poelman
+Instructor: Jared Poelman
 
-#### Do Now  
-Create a simple app that switches between two activities with the press of a button. The activities should be visually distinctive.  
+#### Resources
+http://developer.android.com/reference/android/content/BroadcastReceiver.html
+http://developer.android.com/guide/components/processes-and-threads.html
 
 #### Morning Lesson  
-* Review of Intents  
+* Review of Intents 
 * Sending a Broadcast  
 * Receiving a Broadcast in an Activity  
 * Receiving a Broadcast with the Manifest  
 
-
-#### Morning Exercises  
+#### Morning Exercise  
 Create an app to send and receive a simple Broadcast in the activity and the manifest.  
 
 #### Pod Meetings  
 
 #### Afternoon Lesson  
-* Stopped State  
 * Boot up and Battery changes  
+* Security
 * Ordered Broadcasts  
 * LocalBroadcastManager  
 * Receiver Lifecycle  
 * Process Lifecycle  
 
 
-#### Afternoon Exercises
+#### Afternoon Exercise
+Double up your BroadcastReceivers or create an app that starts on boot.
 
-Using an app that you’ve already built, create a power save version.  
+#### Exit Ticket  
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1YOnIqu8FAXkSjymIrOS3zUAvLyB0xrsZSKiKa2krMDk/viewform).  

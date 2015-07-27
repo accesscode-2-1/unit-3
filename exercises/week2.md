@@ -1,6 +1,6 @@
 ### Exercises, Week 2
 
-0. Please complete exercises from [Widgets](lessons/07_OtherCommonWidgets.md) and [ContentProviders](lessons/08_ContentProviders.md) if you haven't done so.
+0. Please make sure you understand the exercises from [Widgets](lessons/07_OtherCommonWidgets.md) and [ContentProviders](lessons/08_ContentProviders.md).
 
 1. Choose an issue from the Github Android App. Pair program and work on it with a partner. Whomever feels weaker at the material should drive.  
 
