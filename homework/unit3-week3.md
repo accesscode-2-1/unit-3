@@ -10,4 +10,6 @@ You might find it useful to review some of these concepts from the past units:
 * Your [Google Now Apps](https://github.com/accesscode-2-1/unit-2/blob/master/project/requirements.md)!  
 * [Last week's exercises](exercises/week2.md) to solidify concepts from last week
 
-Be prepared to hit the ground running this weekend! :-)
+Be prepared to hit the ground running this weekend...Have fun! :-)  
+
+n.b. You don't have to submit anything for this assignment.  
