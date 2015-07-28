@@ -42,7 +42,7 @@ a) static (manifest)
 b) dynamic  
 
 3) What is the process hierarchy?	  
-How Android prioritizes processes (based on the stuff that's inside) - or, they could just list the actual hierarchy:
+How Android prioritizes processes (based on the stuff that's inside) - or, the actual hierarchy --  
 foreground, visible, service, background, empty  
 
 4) How do you control the order an ordered broadcast is sent?	  
