@@ -40,4 +40,4 @@ Please submit the exit ticket [here](https://docs.google.com/forms/d/1z3EZjY9QSV
 values[0] is acceleration in the x direction.  
 values[1] is acceleration in the y direction.  
 values[2] is acceleration in the z direction.  
-If a phone is resting on a table, the corresponding values would approximately 0, 0, and 9.8 (Earth's gravitational acceleration).  
+If a phone is resting on a table, the corresponding values would approximately 0, 0, and 9.8 (Earth's gravitational acceleration).    
