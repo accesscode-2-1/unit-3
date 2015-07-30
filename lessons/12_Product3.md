@@ -1,6 +1,7 @@
 ### Feature Requirements for UI + Implementation  
 Jay Schaul  
   
+[Slides](12_UI+Implimentation.pdf)  
 
 #### Considerations 💭
 * Scope + MVP
