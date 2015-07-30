@@ -18,7 +18,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 10 | July 25 | 2 | [Broadcast Receivers] (lessons/10_BroadcastReceivers.md)
 11 | July 26 | 3 | [Sensors] (lessons/11_Sensors.md)
 12 | July 28 | 3 | [Feature Requirements for UI + Implementation](lessons/12_Product3.md)
-13 | July 30 | 3 | Robin Hood Hackathon Introduction + Team Formation
+13 | July 30 | 3 | [Robin Hood Hackathon Introduction + Team Formation](lessons/13_HackathonIntroduction.md)
 14 | Aug 1 | 3 | Robin Hood Hackathon
 15 | Aug 2 | 4 | Robin Hood Hackathon
 16 | Aug 4 | 4 | Project Management + Final Project Introduction
