@@ -33,3 +33,6 @@ Jay Schaul
 
 ## Exit Ticket
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1kY1saO6qGEV74CrqNzB-Izh1xRJJB7mw90jiS3mTUj8/viewform).
+
+## How To Demo  
+[Rachel's Slides on demo-ing at the hackathon](http://slides.com/rchltr).
