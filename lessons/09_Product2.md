@@ -1,6 +1,8 @@
 ### Product Workshop 2
 ### Defining the Problem: Scope and Goals
 Instructor: Gabriel Herrera, Spotify  
+  
+[Slides](https://docs.google.com/presentation/d/1u8EInFFwxeP6YtSlpPw6F7nUj4QER9BXVs-8BnYFcIc/edit#slide=id.g7979e433d_1_49)
 
 * Framing problems and defining an MVP  
   - Problem Mode vs Solution Mode  
