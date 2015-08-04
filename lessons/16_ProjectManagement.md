@@ -40,4 +40,4 @@ Standups are an opportunity to make everyone on the team aware of what's going o
 For Android, it's usually between 3-6 weeks between regular releases for each version of the app. In the first part of the cycle, engineers focus on building new features. Usually the last week or two is reserved for testing. During the testing period, the only changes that should be made are bug fixes; no new features are added.
 
 #### Exit Ticket  
-Please submit the exit ticket [here]().
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1cI1VDcyp6LBPWU-mfzlWWME-qx8NYtHQf6i6w4yFD-E/viewform).
