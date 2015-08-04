@@ -23,4 +23,4 @@ Your themes should have parent `Theme.AppCompat` or `Theme.AppCompat.Light`
 [Material Design for Android](http://developer.android.com/training/material/index.html)
 
 #### Exit Ticket
-Please submit the exit ticket on the [ProjectManagment.md lesson plan](lessons/16_ProjectManagement.md)  
+Please submit the exit ticket on the [ProjectManagment.md lesson plan](16_ProjectManagement.md)  
