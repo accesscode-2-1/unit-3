@@ -21,7 +21,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 13 | July 30 | 3 | [Robin Hood Hackathon Introduction + Team Formation](lessons/13_HackathonIntroduction.md)
 14 | Aug 1 | 3 | Robin Hood Hackathon
 15 | Aug 2 | 4 | Robin Hood Hackathon
-16 | Aug 4 | 4 | [Project Management](lessons/16_ProjectManagement.md) + Final Project Introduction
+16 | Aug 4 | 4 | [Material Design](lessons/16_MaterialDesign.md), Final Project Intro, + [Project Management](lessons/16_ProjectManagement.md)
 17 | Aug 6 | 4 | Final Project Working Session
 18 | Aug 8 | 4 | [Services](lessons/18_Services.md)
 19 | Aug 9 | 5 | Workshop: Technical Interviews + Guest Speaker: Orta Therox
