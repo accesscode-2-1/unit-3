@@ -22,14 +22,14 @@ Lesson Plans for Access Code 2.1, Unit 3
 14 | Aug 1 | 3 | Robin Hood Hackathon
 15 | Aug 2 | 4 | Robin Hood Hackathon
 16 | Aug 4 | 4 | [Final Project Intro](https://github.com/accesscode-2-1/unit-3-project) -- [Project Management](lessons/16_ProjectManagement.md) -- [Material Design](lessons/16_MaterialDesign.md)
-17 | Aug 6 | 4 | Final Project Working Session
+17 | Aug 6 | 4 | Final Project: Ideation + Team Formation
 18 | Aug 8 | 4 | [Services](lessons/18_Services.md)
 19 | Aug 9 | 5 | Workshop: Technical Interviews + Guest Speaker: Orta Therox
-20 | Aug 11 | 5 | Guest Speaker: David Rose + Final Project Working Session
+20 | Aug 11 | 5 | Final Project: Proposal Feedback + Working Session
 21 | Aug 13 | 5 | Review Day 1: Threading + Background Notifications  
 22 | Aug 15 | 5 | Third Party APIs
 23 | Aug 16 | 6 | Final Project Working Session
-24 | Aug 18 | 6 | Final Project Working Session
+24 | Aug 18 | 6 | Guest Speaker: David Rose + Final Project Working Session
 25 | Aug 20 | 6 | Final Project Working Session
 26 | Aug 22 | 6 | Technical Review Day 2
 27 | Aug 23 | 7 | Final Project Working Session
