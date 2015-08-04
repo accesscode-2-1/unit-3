@@ -26,7 +26,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 18 | Aug 8 | 4 | [Services](lessons/18_Services.md)
 19 | Aug 9 | 5 | Workshop: Technical Interviews + Guest Speaker: Orta Therox
 20 | Aug 11 | 5 | Guest Speaker: David Rose + Final Project Working Session
-21 | Aug 13 | 5 | Final Project Working Session
+21 | Aug 13 | 5 | Review Day 1: Threading + Background Notifications  
 22 | Aug 15 | 5 | Technical Review Day 1
 23 | Aug 16 | 6 | Advanced Gradle (Tentative Date)
 24 | Aug 18 | 6 | Guest Speaker + Final Project Working Session
