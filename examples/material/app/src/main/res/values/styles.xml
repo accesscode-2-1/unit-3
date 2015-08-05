@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#6ec829</item>
+        <item name="colorAccent">#134b97</item>
+    </style>
+
+    <style name="PurpleTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#880088</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="PurpleTextAppearance.Giant">
+        <item name="android:textSize">64sp</item>
+    </style>
+
+</resources>
