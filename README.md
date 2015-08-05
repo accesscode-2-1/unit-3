@@ -19,15 +19,15 @@ Lesson Plans for Access Code 2.1, Unit 3
 11 | July 26 | 3 | [Sensors] (lessons/11_Sensors.md)
 12 | July 28 | 3 | [Feature Requirements for UI + Implementation](lessons/12_Product3.md)
 13 | July 30 | 3 | [Robin Hood Hackathon Introduction + Team Formation](lessons/13_HackathonIntroduction.md)
-14 | Aug 1 | 3 | Robin Hood Hackathon
-15 | Aug 2 | 4 | Robin Hood Hackathon
+14 | Aug 1 | 3 | [Robin Hood Hackathon](https://github.com/accesscode-2-1/robinhood_hackathon)  
+15 | Aug 2 | 4 | [Robin Hood Hackathon](https://github.com/accesscode-2-1/robinhood_hackathon)  
 16 | Aug 4 | 4 | [Final Project Intro](https://github.com/accesscode-2-1/unit-3-project) -- [Project Management](lessons/16_ProjectManagement.md) -- [Material Design](lessons/16_MaterialDesign.md)
 17 | Aug 6 | 4 | Final Project: Ideation + Team Formation
 18 | Aug 8 | 4 | [Services](lessons/18_Services.md)
 19 | Aug 9 | 5 | Workshop: Technical Interviews + Guest Speaker: Orta Therox
 20 | Aug 11 | 5 | Final Project: Proposal Feedback + Working Session
-21 | Aug 13 | 5 | Review Day 1: Threading + Background Notifications  
-22 | Aug 15 | 5 | Third Party APIs
+21 | Aug 13 | 5 | Review Day 1: [Threading + Background Notifications](lessons/21_Review-Threading%26Notifications.md)  
+22 | Aug 15 | 5 | [Third Party APIs](lessons/22_APIs.md)  
 23 | Aug 16 | 6 | Final Project Working Session
 24 | Aug 18 | 6 | Guest Speaker: David Rose + Final Project Working Session
 25 | Aug 20 | 6 | Final Project Working Session
