@@ -7,6 +7,18 @@ Jared Poelman
 
 ### Notifications
 
+Design guide:
+http://developer.android.com/design/patterns/notifications.html
+
+API guide:
+http://developer.android.com/guide/topics/ui/notifiers/notifications.html
+
+NotificationCompat.Builder:
+http://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html
+
+Notification.Builder:
+http://developer.android.com/reference/android/app/Notification.Builder.html
+
 ### Threads
 
 ## Exit Ticket  
