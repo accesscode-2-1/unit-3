@@ -1,4 +1,4 @@
-## Threading and Notifications (review)
+## Notifications and Threads Review
 Jared Poelman  
 
 ##### Previous lectures  
