@@ -22,7 +22,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 14 | Aug 1 | 3 | [Robin Hood Hackathon](https://github.com/accesscode-2-1/robinhood_hackathon)  
 15 | Aug 2 | 4 | [Robin Hood Hackathon](https://github.com/accesscode-2-1/robinhood_hackathon)  
 16 | Aug 4 | 4 | [Final Project Intro](https://github.com/accesscode-2-1/unit-3-project) -- [Project Management](lessons/16_ProjectManagement.md) -- [Material Design](lessons/16_MaterialDesign.md)
-17 | Aug 6 | 4 | Final Project: Ideation + Team Formation
+17 | Aug 6 | 4 | [Final Project: Ideation + Team Formation](https://docs.google.com/forms/d/1sU6Vyyk7Y5yr382Acpa1xtYItCRtxsk5d6-RiYE-AvU/viewform)  
 18 | Aug 8 | 4 | [Services](lessons/18_Services.md)
 19 | Aug 9 | 5 | Workshop: Technical Interviews + Guest Speaker: Orta Therox
 20 | Aug 11 | 5 | Final Project: Proposal Feedback + Working Session
