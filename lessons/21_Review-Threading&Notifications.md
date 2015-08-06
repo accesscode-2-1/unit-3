@@ -7,7 +7,7 @@ Jared Poelman
 
 ### Notifications
 
-### Threading  
+### Threads
 
 ## Exit Ticket  
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1YlBu5qmGigbq5AdfiU4x-E7JVoDShq4lSacoetuu5ZA/viewform).  
