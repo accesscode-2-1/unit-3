@@ -24,7 +24,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 16 | Aug 4 | 4 | [Final Project Intro](https://github.com/accesscode-2-1/unit-3-project) -- [Project Management](lessons/16_ProjectManagement.md) -- [Material Design](lessons/16_MaterialDesign.md)
 17 | Aug 6 | 4 | [Final Project: Ideation + Team Formation](https://docs.google.com/forms/d/1sU6Vyyk7Y5yr382Acpa1xtYItCRtxsk5d6-RiYE-AvU/viewform)  
 18 | Aug 8 | 4 | [Services](lessons/18_Services.md)
-19 | Aug 9 | 5 | Workshop: Technical Interviews + Guest Speaker: Orta Therox
+19 | Aug 9 | 5 | [Workshop: Technical Interviews](lessons/C4Q_technical_interviews.pdf) + Guest Speaker: Orta Therox
 20 | Aug 11 | 5 | Final Project: Proposal Feedback + Working Session
 21 | Aug 13 | 5 | Review Day 1: [Threading + Background Notifications](lessons/21_Review-Threading%26Notifications.md)  
 22 | Aug 15 | 5 | [Third Party APIs](lessons/22_APIs.md)  
