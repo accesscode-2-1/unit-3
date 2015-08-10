@@ -27,6 +27,9 @@ http://developer.android.com/reference/android/app/Notification.Builder.html
 
 ### Threads
 
+Concurrency:
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+
 - UI Thread
 
 - Atomicity
