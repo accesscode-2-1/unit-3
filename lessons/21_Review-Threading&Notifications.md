@@ -19,7 +19,29 @@ http://developer.android.com/reference/android/support/v4/app/NotificationCompat
 Notification.Builder:
 http://developer.android.com/reference/android/app/Notification.Builder.html
 
+Builder Pattern
+
+Notification UI
+
+Android SDK version gating
+
 ### Threads
+
+UI Thread
+
+Atomicity
+
+Shared Preferences
+
+### Exercises
+
+1) Create a notification with an API level gated feature!
+
+http://developer.android.com/reference/android/os/Build.html
+
+2) Create a Builder class!
+
+3) Challenge: Create a working example of deadlock!
 
 ## Exit Ticket  
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1YlBu5qmGigbq5AdfiU4x-E7JVoDShq4lSacoetuu5ZA/viewform).  
