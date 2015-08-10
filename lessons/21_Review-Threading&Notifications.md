@@ -47,5 +47,7 @@ https://en.wikipedia.org/wiki/Builder_pattern#Java_Example
 
 https://en.wikipedia.org/wiki/Deadlock
 
+4) Challenge: Create a notification that displays an image from a URL!
+
 ## Exit Ticket  
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1YlBu5qmGigbq5AdfiU4x-E7JVoDShq4lSacoetuu5ZA/viewform).  
