@@ -19,19 +19,19 @@ http://developer.android.com/reference/android/support/v4/app/NotificationCompat
 Notification.Builder:
 http://developer.android.com/reference/android/app/Notification.Builder.html
 
-Builder Pattern
+- Builder Pattern
 
-Notification UI
+- Notification UI
 
-Android SDK version gating
+- Android SDK version gating
 
 ### Threads
 
-UI Thread
+- UI Thread
 
-Atomicity
+- Atomicity
 
-Shared Preferences
+- Shared Preferences
 
 ### Exercises
 
@@ -41,7 +41,11 @@ http://developer.android.com/reference/android/os/Build.html
 
 2) Create a Builder class!
 
+https://en.wikipedia.org/wiki/Builder_pattern#Java_Example
+
 3) Challenge: Create a working example of deadlock!
+
+https://en.wikipedia.org/wiki/Deadlock
 
 ## Exit Ticket  
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1YlBu5qmGigbq5AdfiU4x-E7JVoDShq4lSacoetuu5ZA/viewform).  
