@@ -4,8 +4,6 @@
 
 #### GSON
 
-#### Retrofit Review (tentative)  
-
 #### TBD  
 
 ## Exit Ticket  
