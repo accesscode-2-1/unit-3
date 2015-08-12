@@ -3,4 +3,4 @@ Toria Gibbs
   
   
 ##### [Slides](C4Q_technical_interviews.pdf)  
-##### [Solution Notes](19_Solution_Notes.rtf)  
+##### [Solution Notes](19_Solution_Notes.pdf)  
