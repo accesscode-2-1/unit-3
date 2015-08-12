@@ -16,4 +16,16 @@ Lesson on Services
 
 
 #### Exit Ticket   
-Please submit the exit ticket [here](https://docs.google.com/forms/d/1Wq7g9YVohn4A1367n0Zxu9wf14AL_Bwlch2Sil5c6oE/viewform).  
+Please submit the exit ticket [here](https://docs.google.com/forms/d/1Wq7g9YVohn4A1367n0Zxu9wf14AL_Bwlch2Sil5c6oE/viewform).   
+  
+ Exit Ticket Questions & Answers:
+   
+ Q1.  What are the two methods for an activity to start a service?   
+   A.  startService(intent) and bindService(intent)  
+   
+ Q2.  What are the two types of Service classes that Android provides for us to extend from?  
+   A.  Service and IntentService  
+   
+ Q3.  What tag do you add to AndroidManifest.xml when creating a new Service?  
+   A.  `<service name="someServiceClassName"/>`
+   
