@@ -28,7 +28,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 20 | Tues, Aug 11 | 5 | Final Project: Proposal Feedback + Working Session
 21 | Thurs, Aug 13 | 5 | Review Day 1: [Threading + Background Notifications](lessons/21_Review-Threading%26Notifications.md)  
 22 | Sat, Aug 15 | 5 | [Third Party APIs](lessons/22_APIs.md)  
-23 | Sun, Aug 16 | 6 | Final Project Working Session
+23 | Sun, Aug 16 | 6 | Final Project Working Session + [Project Updates: Prototype Presentation](https://github.com/accesscode-2-1/unit-3-project/blob/master/demos/practice_demo_guidelines.md)
 24 | Tues, Aug 18 | 6 | Guest Speaker: David Rose + Final Project Working Session
 25 | Thurs, Aug 20 | 6 | Final Project Working Session
 26 | Sat, Aug 22 | 6 | Technical Review Day 2
