@@ -36,6 +36,8 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
 
 - Shared Preferences
 
+- Synchronized
+
 ### Exercises
 
 1) Create a notification with an API level gated feature!
