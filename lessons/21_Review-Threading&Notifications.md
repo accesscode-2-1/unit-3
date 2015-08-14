@@ -58,3 +58,13 @@ https://en.wikipedia.org/wiki/Deadlock
 
 ## Exit Ticket  
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1YlBu5qmGigbq5AdfiU4x-E7JVoDShq4lSacoetuu5ZA/viewform).  
+
+### Exit Tickets Questions & Answers :-)
+1.  What is a notification id?  
+  The id used to identify a notification to the Android system.  It can be used to delete a notification.
+  
+2. How is the UI thread different from other threads on Android?   
+  Android applications are single-threaded by default.  This thread is called the UI thread and manages all UI events.  Non visible long-running or blocking tasks (e.g. network, database I/O) should be run in separate threads to avoid blocking the UI thread.
+  
+3. Why would you use NotificationCompat instead of Notification?  
+   To extend support for Notification API features to earlier API levels in backwards-compatible fashion
