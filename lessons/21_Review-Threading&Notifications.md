@@ -5,6 +5,8 @@ Jared Poelman
 [Threading](https://github.com/accesscode-2-1/unit-2/blob/master/lessons/10_Threads.md)  
 [Notifications](https://github.com/accesscode-2-1/unit-2/blob/master/lessons/11_Notifications.md)  
 
+#### [Slides](21_Review_Thread&Notif_slides.pdf)
+
 ### Notifications
 
 Design guide:
