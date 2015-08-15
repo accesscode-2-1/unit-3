@@ -46,7 +46,7 @@ We'll also cover a few other tools that can aid in general.
 
 #### Bonus Do Now (Late Morning / Afternoon)
 
-> Create an app using RetroFit that populates a listview with your repositories on github.
+> Create an app using RetroFit that populates a listview with your repositories on github. You may find it helpful to use an online tutorial [such as this one](https://guides.codepath.com/android/Consuming-APIs-with-Retrofit) for reference.
 
 ## Exit Ticket  
 Please submit the exit ticket [here](https://docs.google.com/forms/d/1R2EKzGCiIkN4qSuIYPC-gR0kf__lGs_1wtji9JtXNt8/viewform).  
