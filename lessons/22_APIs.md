@@ -4,6 +4,8 @@
 
 Students will understand how third-party libraries can aid them in performing tasks in an efficient manner, for web API requests and beyond.
 
+Slides can be found [here](https://msgrasser.github.io/c4q-external-apis/).
+
 #### Lesson (Morning)
 
 ##### Picasso
