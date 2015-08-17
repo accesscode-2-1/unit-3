@@ -1,5 +1,5 @@
 ### Content Providers
-Instructor: Yang Mou
+Instructor: Yang Mou, Oscar
 
 #### Objective
 Learn how to access and modify data from content providers.
