@@ -1,5 +1,5 @@
 ### Fragments
-#### Instructor: Sultan Keshwani
+Instructor: Sultan Keshwani, Time Inc
 
 ### Do Now  
 
