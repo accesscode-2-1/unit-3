@@ -31,12 +31,12 @@ Lesson Plans for Access Code 2.1, Unit 3
 23 | Sun, Aug 16 | 6 | Final Project Working Session + [Project Updates: Prototype Presentation](https://github.com/accesscode-2-1/unit-3-project/blob/master/demos/practice_demo_guidelines.md)
 24 | Tues, Aug 18 | 6 | Guest Speaker: David Rose + Final Project Working Session
 25 | Thurs, Aug 20 | 6 | Final Project Working Session
-26 | Sat, Aug 22 | 6 | Technical Review Day 2
+26 | Sat, Aug 22 | 6 | Final Project Working Session
 27 | Sun, Aug 23 | 7 | Final Project Working Session
 28 | Tues, Aug 25 | 7 | Guest Speaker: Serge Kassardjian + Final Project Working Session
 29 | Thurs, Aug 27 | 7 | Droidcon
-30 | Sat, Aug 29 | 7 | **Program Final Assessment**
-31 | Sun, Aug 30 | 8 | Final Project Working Session
+30 | Sat, Aug 29 | 7 | Technical Review Day 2
+31 | Sun, Aug 30 | 8 | **Program Final Assessment**
 32 | Tues, Sep 1 | 8 | Final Project: First Release and Demo
 33 | Thurs, Sep 3 | 8 | Final Project Working Session
 34 | Sat, Sep 5 | 8 | No Class - Holiday Break 
