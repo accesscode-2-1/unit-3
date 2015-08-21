@@ -1,4 +1,4 @@
 #### Product Management  
-Guest Speaker: [Ryan Tabone]()  
+Guest Speaker: [Ryan Tabone](https://www.linkedin.com/in/ryant)  
   
-##### [Slides](lessons/25_Product_management_Tabone.pdf)  
+##### [Slides](25_Product_management_Tabone.pdf)  
