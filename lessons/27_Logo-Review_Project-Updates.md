@@ -14,6 +14,8 @@
 1:00 - 1:10   --   Shamer (Charlyn, Yuliya, Sufei, Anthony M)  
 1:10 - 1:20   --   Espy (Vanice, Jose, Marbella, Elvis)  
 
+**_Please submit your final logos in eps or ai file formats by 10pm tonight (8/23) via email to aliya@c4q.nyc._**  
+
 ---
 
 ### Project Updates
