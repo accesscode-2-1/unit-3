@@ -32,7 +32,7 @@ Lesson Plans for Access Code 2.1, Unit 3
 24 | Tues, Aug 18 | 6 | Guest Speaker: David Rose + Final Project Working Session
 25 | Thurs, Aug 20 | 6 | Guest Speaker: [Ryan Tabone](lessons/25_ProductManagement.md) + Final Project Working Session // [Exit Ticket](https://docs.google.com/forms/d/1E9C8aVU5EqPNqg6MPZcXw0eEpQTAichD86cfms47Kbg/viewform)
 26 | Sat, Aug 22 | 6 | Final Project Working Session
-27 | Sun, Aug 23 | 7 | Final Project Working Session + Logo Reviews
+27 | Sun, Aug 23 | 7 | Final Project Working Session + [Logo Reviews + Project Updates](/lessons/27_Logo-Review_Project-Updates.md)
 28 | Tues, Aug 25 | 7 | Guest Speaker: [Serge Kassardjian](https://www.linkedin.com/profile/view?id=2742178&authType=NAME_SEARCH&authToken=vUEE&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A2742178%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1440010150786%2Ctas%3Aserge%20k) + Final Project Working Session
 29 | Thurs, Aug 27 | 7 | Droidcon
 30 | Sat, Aug 29 | 7 | [Technical Review Day 2](lessons/30_Review2.md)
