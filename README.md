@@ -45,7 +45,11 @@ Lesson Plans for Access Code 2.1, Unit 3
 37 | Thurs, Sep 10 | 9 | Final Project Working Session
 38 | Sat, Sep 12 | 9 | Final Project Working Session
 39 | Sun, Sep 13 | 10 | Final Project Working Session
-40 | Tues, Sep 15 | 10 | **Final Project: Final Release and Demo Day!**
+40 | Tues, Sep 15 | 10 | Final Project Working Session: Demo Practice
+41 | Wed, Sep 16 | 10 | **Final Project: Final Release and Demo Day!**
+42 | Thurs, Sep 17 | 10 | No Class - Session Break
+43 | Sat, Sep 19 | 10 | No Class - Session Break
+44 | Sun, Sep 20 | 11 | No Class - Session Break
 
 ### Homework
 | Due Date | Homework|  
